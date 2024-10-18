@@ -19,6 +19,17 @@ h1 {
     height: 100%;
   }
 
+img:hover {
+  border-color: aqua;
+  border-width: 2px;
+  border-style: solid;
+
+}
+
+#second-cr7 {
+  visibility: hidden;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 }
